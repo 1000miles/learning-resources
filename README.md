@@ -7,15 +7,23 @@ one collection, many tutorials (e.g. ruby, javascript, html/css, html5, css3, et
 # 1. RUBY
 
 #### Online Tutorials
-* http://ruby-for-beginners.rubymonstas.org/
-* http://www.codecademy.com/tracks/ruby
-* http://tryruby.org/
-* https://www.codeschool.com/ Some free courses ($= sometimes they offer trial periods and discounts)
+
+Beginner's Level
+
+* http://ruby-for-beginners.rubymonstas.org/ 
+* https://pine.fm/LearnToProgram 
+* http://tryruby.org/ (free course)
+* http://learnrubythehardway.org/book/ 
+
+Advanced Level
+* http://www.codecademy.com/tracks/ruby 
 * http://rubykoans.com/
 * https://rubymonk.com/
-* http://www.codewars.com/
-* http://ruby.learncodethehardway.org (Learn Ruby from exercises and step by step.)
-* http://rubyforwebdesigners.com
+* http://www.codewars.com/ 
+* http://rubyforwebdesigners.com 
+
+##### Expert Level
+...
 
 
 #### Video Tutorials
@@ -45,9 +53,22 @@ one collection, many tutorials (e.g. ruby, javascript, html/css, html5, css3, et
 * http://guides.railsgirls.com/install/
 * http://docs.railsbridge.org/installfest/choose_your_operating_system
 
+
+##### Beginner's Level
+
 * http://railsgirlsberlin.github.io/basic-curriculum/attendee_tutorial.html (Build your first app)
+* https://www.codeschool.com/courses/rails-for-zombies-redux (free course)
+
+
+##### Advanced Level
+
 * http://rubyonrailstutor.github.io
 * http://railsforzombies.org/
+
+
+##### Expert Level
+...
+
 
 #### Books
 * https://www.railstutorial.org/book
@@ -90,5 +111,50 @@ one collection, many tutorials (e.g. ruby, javascript, html/css, html5, css3, et
 ---
 # 5. Shell/Terminal
 
-#### Command Line Crash Course
+#### Command Line Interface (CLI)
+
+##### Beginner's Level
+
 * http://cli.learncodethehardway.org/book/
+
+---
+# 6. Git
+
+##### Beginner's Level
+
+* https://www.codeschool.com/courses/try-git (free course)
+* https://www.codeschool.com/courses/git-real (free course)
+
+
+##### Advanced Level
+
+* https://www.codeschool.com/courses/git-real-2 (free course)
+
+
+##### Expert Level
+...
+
+---
+# 7. Testing & Debugging
+
+
+#### Continuous Integration
+
+* https://travis-ci.org/
+* https://ci.gitlab.com/
+
+
+#### IDE
+
+* https://www.eclipse.org
+* http://www.aptana.com/
+
+
+#### Test Driven Development
+
+* http://rspec.info/
+
+
+
+
+
